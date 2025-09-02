@@ -1,2 +1,1 @@
-# Simon-Says
-Simon Says Game Project
+# SimSimon Says is a memory-based game where the system lights up buttons in a sequence, and the player has to repeat the same pattern. With each correct round, the sequence gets longer and trickier — making it both engaging and challenging.
