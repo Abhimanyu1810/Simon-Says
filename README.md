@@ -1,1 +1,1 @@
-# SimSimon Says is a memory-based game where the system lights up buttons in a sequence, and the player has to repeat the same pattern. With each correct round, the sequence gets longer and trickier — making it both engaging and challenging.
+<h4>SimSimon Says is a memory-based game where the system lights up buttons in a sequence, and the player has to repeat the same pattern. With each correct round, the sequence gets longer and trickier — making it both engaging and challenging</h4>
